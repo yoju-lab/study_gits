@@ -1,5 +1,5 @@
-good job with github
-good job with local
+write first in github
+
 # A first-level heading
 Some basic Git commands are:
 ```
